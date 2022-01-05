@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\hoang\\OneDrive\\Máy tính\\Proj_BanHang\\Proj_BanHang\\Proj_BanHang\\Proj_BanHang.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\hoang\\OneDrive\\Máy tính\\Proj_BanHang\\Proj_BanHang\\Proj_BanHang\\Proj_BanHang.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hoang\\OneDrive\\Máy tính\\Proj_BanHang\\Proj_BanHang\\Proj_BanHang\\Proj_BanHang.csproj",
+        "projectName": "Proj_BanHang",
+        "projectPath": "C:\\Users\\hoang\\OneDrive\\Máy tính\\Proj_BanHang\\Proj_BanHang\\Proj_BanHang\\Proj_BanHang.csproj",
+        "packagesPath": "C:\\Users\\hoang\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hoang\\OneDrive\\Máy tính\\Proj_BanHang\\Proj_BanHang\\Proj_BanHang\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\hoang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net45"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net45": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net45": {
+          "dependencies": {
+            "ZXing.Net": {
+              "target": "Package",
+              "version": "[0.16.7, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
